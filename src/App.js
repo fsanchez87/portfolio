@@ -14,6 +14,7 @@ function App() {
       <Skills />
       <Testimonials />
       <Contact />
+      
     </main>
   );
 }
