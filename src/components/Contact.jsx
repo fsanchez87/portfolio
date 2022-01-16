@@ -53,13 +53,13 @@ export default function Contact() {
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                 EMAIL
               </h2>
-              <a className="text-indigo-400 leading-relaxed">
+              <a href="/#" className="text-indigo-400 leading-relaxed">
                 sanchezgarridof@gmail.com
               </a>
               <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
                 TELÉFONO
               </h2>
-              <a className="leading-relaxed">000-000-000</a>
+              <a href="/#" className="leading-relaxed">000-000-000</a>
             </div>
           </div>
         </div>
@@ -67,6 +67,7 @@ export default function Contact() {
           netlify
           name="contact"
           className="lg:w-1/3 md:w-1/2 flex flex-col md:ml-auto w-full md:py-8 mt-8 md:mt-0"
+          onSubmit={handleSubmit}
         >
           <h2 className="text-white sm:text-4xl text-3xl mb-1 font-medium title-font">
             Contacto

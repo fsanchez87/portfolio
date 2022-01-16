@@ -2,7 +2,7 @@ export default function Navbar() {
   return (
     <header className="bg-gray-800 md:sticky top-0 z-10">
       <div className="container mx-auto flex flex-wrap flex-col p-5 md:flex-row ">
-        <a className="title-font font-medium text-white mb-4 md:mb-0">
+        <a href="/#" className="title-font font-medium text-white mb-4 md:mb-0">
           <a href="#about" className="ml-3 text-xl">
             Francisco Sánchez
           </a>
