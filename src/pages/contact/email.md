@@ -1,5 +1,6 @@
 ---
 title: Email
 icon: carbon:email
-url: mailto:juz@hoper.ph
+url: mailto:franciscosanchez.buzon@gmail.com
+
 ---

@@ -1,22 +1,39 @@
 ---
-title: Tactical Team Leader
-date: 1985 - 1990
-url: http://atawajof.dz/vonilzor
-location: Los Angeles, California
-org: Los Angeles County Sheriff's Department – SWAT Division
-tags:
+title: Administrador de Sistemas
+date: 08/2014 - 10/2022
+url: https://www.afi.es/
+location: Madrid, España
+org: Analistas Financieros Internacionales
+tags: 
   [
-    "SWAT",
-    "Surveillance",
-    "Undercover Operations",
-    "Evidence Gathering",
-    "Case Solving",
-    "Interviewing Skills",
+    "Administración de Sistemas",
+    "Servidores",
+    "Windows Server",
+    "Active Directory",
+    "Azure",
+    "GPOs",
+    "Backup",
+    "Firewalls",
+    "Virtualización",
+    "VMware",
+    "AWS",
+    "Soporte Técnico",
+    "Seguridad Informática",
+    "Google Workspace",
+    "Telefonía IP",
+    "Mitel"
   ]
 ---
 
-- Led SWAT operations in high-risk situations, including hostage rescues, armed standoffs, and counter-terrorism missions.
-- Developed and implemented tactical plans tailored to specific scenarios, ensuring the safety of hostages, civilians, and law enforcement personnel.
-- Conducted specialized training for SWAT team members in firearms proficiency, close-quarters combat, tactical movement, and hostage negotiation.
-- Coordinated with local, state, and federal agencies to support joint operations and enhance interagency cooperation.
-- Provided expertise and assistance in the planning and execution of high-profile security details for visiting dignitaries, VIPs, and major events.
+- Mantenimiento y gestión de software y hardware de equipos Endpoint  
+- Atención a usuarios y resolución de incidencias  
+- Administración de servidores Windows Server y Linux  
+- Gestión y mantenimiento de **Active Directory**, creación y gestión de usuarios, permisos y políticas de grupo (**GPOs**)  
+- Administración de **Azure AD**, gestión de identidades y control de acceso  
+- Implementación y mantenimiento de soluciones de virtualización en **VMware, Azure y AWS**  
+- Configuración y administración de sistemas de Backup, Firewalls y seguridad perimetral  
+- Administración y mantenimiento de infraestructuras de servidores y CPD  
+- Gestión de sistemas de correo electrónico con **Google Workspace**  
+- Configuración y mantenimiento de soluciones de **telefonía IP (Mitel)**  
+- Administración de herramientas de colaboración y videoconferencia  
+- Implementación de medidas de **seguridad informática** y cumplimiento de normativas de IT  

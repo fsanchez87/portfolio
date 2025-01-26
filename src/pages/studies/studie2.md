@@ -1,8 +1,24 @@
 ---
-title: Advanced SWAT Tactics and Leadership Training
-location: FBI Academy
-url: http://ni.sb/mehanad
-institute: FBI Academy
-date: 1975-1980
-tags: ["Conflict Resolution", "Strategic Planning", "Risk Assessment", "Firearms Training", "Emergency Response"]
+title: Técnico Superior en Desarrollo de Aplicaciones Web
+location: Centro de Estudios Stucom-Linkia FP
+url: https://www.linkiafp.es/
+institute: Centro de Estudios Stucom-Linkia FP
+date: 2021
+tags:
+  [
+    "Desarrollo Web",
+    "JavaScript",
+    "C#",
+    "HTML5",
+    "CSS3",
+    "Backend",
+    "Frontend",
+    "Bases de Datos",
+    "Java",
+    "PHP",
+    "XML",
+    "Sistemas Informáticos",
+    "Entornos de Desarrollo",
+    "Diseño de Interfaces",
+  ]
 ---

@@ -1,14 +1,15 @@
 ---
-title: Senior Detective
-date: 1990 - Present
-url: http://ropibbe.nf/savadru
-location: Los Angeles, California
-org: Los Angeles Police Department (LAPD)
-tags: ["Law Enforcement", "Police Work", "Tactical Operations", "Case Management"]
+title: Analista Programador
+date: 10/2022 - Actualidad
+url: https://www.lksnext.com/es/servicios/tecnologia/gobtech/afi-sta/
+location: Madrid, España
+org: Afi STA - LKS NEXT
+tags: ["Desarrollo Web", "Backend", ".NET", "Frontend", "Angular", "HTML", "CSS", "Bootstrap"]
 ---
 
-- Lead investigations into organized crime, drug trafficking, and high-profile criminal activities.
-- Conducted extensive surveillance operations utilizing advanced equipment and techniques to gather critical intelligence.
-- Collaborated with federal agencies such as the FBI and DEA on joint task forces to dismantle criminal syndicates.
-- Played a pivotal role in numerous undercover operations, successfully infiltrating criminal organizations and gathering actionable evidence for prosecution.
-- Trained and mentored junior officers in surveillance tactics, undercover operations, and tactical maneuvers.
+- Desarrollo de aplicaciones web con **.NET**  
+- Desarrollo de interfaces dinámicas y **SPA con Angular**  
+- Mantenimiento y actualización de aplicaciones  
+- Maquetación con **HTML5, CSS3 y Bootstrap**  
+- Consumo de **APIs RESTful** y manejo de datos en **Angular**  
+- Gestión y resolución de **incidencias técnicas**  

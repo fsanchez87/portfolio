@@ -1,15 +1,28 @@
 ---
-title: Bachelor of Science in Criminal Justice
-location: University of California, Los Angeles (UCLA)
-url: http://foeberoz.gm/kuj
-institute: University of California
-date: 1970-1975
+title: Máster en Full Stack Developer
+location: Universidad Internacional de La Rioja
+url: https://www.unir.net/ingenieria/master-full-stack-developer/
+institute: Universidad Internacional de La Rioja
+date: 2022
 tags:
   [
-    "Criminal Justice",
-    "Law Enforcement",
-    "Legal Studies",
-    "Public Safety",
-    "Court System",
+    "Desarrollo Web",
+    "Full Stack",
+    "Frontend",
+    "Backend",
+    "HTML",
+    "CSS",
+    "SASS",
+    "JavaScript",
+    "TypeScript",
+    "Angular",
+    "Bootstrap",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "MySQL",
+    "TDD",
+    "SOLID",
+    "CI/CD",
+    "Testing",
   ]
----
