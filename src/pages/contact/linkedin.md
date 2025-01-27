@@ -1,5 +1,5 @@
 ---
 title: Linkedin
 icon: carbon:logo-linkedin
-url: www.linkedin.com/in/francisco-sánchez-garrido-256037126
+url: https://www.linkedin.com/in/francisco-s%C3%A1nchez-garrido-256037126/
 ---

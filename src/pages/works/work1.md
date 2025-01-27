@@ -1,6 +1,7 @@
 ---
 title: Analista Programador
-date: 10/2022 - Actualidad
+# date: 10/2022 - Actualidad
+date: 2022-Actualidad
 url: https://www.lksnext.com/es/servicios/tecnologia/gobtech/afi-sta/
 location: Madrid, España
 org: Afi STA - LKS NEXT

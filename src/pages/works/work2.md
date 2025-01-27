@@ -1,6 +1,7 @@
 ---
 title: Administrador de Sistemas
-date: 08/2014 - 10/2022
+# date: 08/2014 - 10/2022
+date: 2014-2022
 url: https://www.afi.es/
 location: Madrid, España
 org: Analistas Financieros Internacionales

@@ -1,6 +1,6 @@
 ---
 title: DataAir
-url: http://dan.ma/humbe
+url: 
 tags: ["react", "javaScript", "axios", "HTML", "SCSS", "CSS"]
 date: 2022
 ---
