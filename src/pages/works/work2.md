@@ -35,6 +35,5 @@ tags:
 - Configuración y administración de sistemas de Backup, Firewalls y seguridad perimetral  
 - Administración y mantenimiento de infraestructuras de servidores y CPD  
 - Gestión de sistemas de correo electrónico con **Google Workspace**  
-- Configuración y mantenimiento de soluciones de **telefonía IP (Mitel)**  
-- Administración de herramientas de colaboración y videoconferencia  
+- Configuración y mantenimiento de soluciones de **telefonía IP**  
 - Implementación de medidas de **seguridad informática** y cumplimiento de normativas de IT  
