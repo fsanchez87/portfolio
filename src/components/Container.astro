@@ -39,7 +39,7 @@ const PDF = "/francisco_sanchez_cv.pdf";
 
   <AccordionLayout title={"Estudios"} icon={"carbon:education"}>
     {
-      studies.map((item) => {
+      studies.sort((a, b) => b.frontmatter.date - a.frontmatter.date).map((item) => {
         return (
           <Card
             title={item.frontmatter.title}
